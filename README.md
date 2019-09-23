@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Author
+Sachini Chandrasena :- https://www.linkedin.com/in/sachini-chandrasena/
+
+### simply about the application 
+This is a simple react web application which uses Facebook Open Auth module (Facebook developers) for authentication and this application has the privilege to access your profile details such as name, email address and profile picture once you proceed the login process with facebook.
